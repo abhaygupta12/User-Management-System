@@ -8,3 +8,16 @@ In this Application:
 Packages - Nodemon,mongoose,express,cors,body-parser.
 
 Architecture - MVC(Model View Controller).
+
+REST API.
+
+
+
+
+
+
+
+
+
+
+
